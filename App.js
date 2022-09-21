@@ -11,7 +11,7 @@ export default function App() {
   const [selectedCurrency, setSelectedCurrency] = useState('');
 
   const myHeaders = new Headers();
-  myHeaders.append('apikey', 'Q1gkXhQTl56MKyimhFrV8Q9G6OCde4jH');
+  myHeaders.append('apikey', 'e4sEYtPJce7xDRUkucF2jz3lYHHNucvB');
 
   const requestOptions = {
     method: 'GET',
